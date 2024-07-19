@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/translate": "^8.3.0",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "linkedin-api-client": "^0.3.0"
+  }
+}

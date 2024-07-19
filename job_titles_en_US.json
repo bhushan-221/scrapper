@@ -1,0 +1,1202 @@
+[
+  {
+    "_id": {
+      "$oid": 27
+    },
+    "name": "Product Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 28
+    },
+    "name": "Operations Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 29
+    },
+    "name": "Business Analyst",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 30
+    },
+    "name": "Administrative Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 32
+    },
+    "name": "System Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 33
+    },
+    "name": "Program Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 34
+    },
+    "name": "Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 35
+    },
+    "name": "Founder",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 36
+    },
+    "name": "Team Lead",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 37
+    },
+    "name": "Supervisor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 38
+    },
+    "name": "Administrator",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 39
+    },
+    "name": "Senior Software Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 40
+    },
+    "name": "Accountant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 42
+    },
+    "name": "Business Development Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 43
+    },
+    "name": "Office Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 44
+    },
+    "name": "Coordinator",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 45
+    },
+    "name": "Human Resources Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 46
+    },
+    "name": "Assistant Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 47
+    },
+    "name": "Principal",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 48
+    },
+    "name": "Sales Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 49
+    },
+    "name": "Editor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 50
+    },
+    "name": "Senior Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 51
+    },
+    "name": "Researcher",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 52
+    },
+    "name": "Attorney",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 54
+    },
+    "name": "Student",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 55
+    },
+    "name": "Trainee",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 56
+    },
+    "name": "Professor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 57
+    },
+    "name": "Senior Vice President",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 58
+    },
+    "name": "Graphic Designer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 59
+    },
+    "name": "System Administrator",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 60
+    },
+    "name": "Executive Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 61
+    },
+    "name": "Specialist",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 62
+    },
+    "name": "Technician",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 63
+    },
+    "name": "Marketing Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 64
+    },
+    "name": "Controller",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 65
+    },
+    "name": "Information Technology Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 66
+    },
+    "name": "Executive Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 67
+    },
+    "name": "System Analyst",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 68
+    },
+    "name": "Chief Financial Officer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 69
+    },
+    "name": "Project Lead",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 70
+    },
+    "name": "Marketing Specialist",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 71
+    },
+    "name": "Information Technology Specialist",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 72
+    },
+    "name": "Architect",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 73
+    },
+    "name": "Producer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 74
+    },
+    "name": "Research Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 75
+    },
+    "name": "Instructor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 76
+    },
+    "name": "Secretary",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 77
+    },
+    "name": "Senior Project Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 78
+    },
+    "name": "Project Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 79
+    },
+    "name": "Human Resources Specialist",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": ""
+      },
+      {
+        "langCode": "es",
+        "translated": ""
+      },
+      {
+        "langCode": "fr",
+        "translated": ""
+      },
+      {
+        "langCode": "nl",
+        "translated": ""
+      }
+    ]
+  }
+]
