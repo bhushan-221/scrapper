@@ -8,7 +8,10 @@ const languages = ["de_DE", "es_ES", "fr_FR", "nl_NL"];
 
 async function getJobTitles(accessToken) {
   const mainLanguage = "en_US";
-  const url = `https://api.linkedin.com/v2/titles?locale=${mainLanguage}&start=25`;
+  let start = fs.readFileSync("start.txt", "utf8");
+  start = parseInt(start);
+
+  const url = `https://api.linkedin.com/v2/titles?locale=${mainLanguage}&start=${start}`;
 
   try {
     const response = await axios.get(url, {
@@ -17,7 +20,7 @@ async function getJobTitles(accessToken) {
       },
     });
 
-    const jobTitles = response.data.elements.map((title) => {
+    const newJobTitles = response.data.elements.map((title) => {
       return {
         _id: title.id,
         name: title.name.localized[Object.keys(title.name.localized)[0]],
@@ -25,13 +28,27 @@ async function getJobTitles(accessToken) {
       };
     });
 
-    for (const language of languages.filter((lang) => lang !== mainLanguage)) {
-      const languageData = await fetchLanguageData(accessToken, language);
-      updateTranslations(jobTitles, languageData.data.elements, language);
+    let existingJobTitles = [];
+    try {
+      existingJobTitles = JSON.parse(
+        fs.readFileSync("job_titles.json", "utf8"),
+      );
+    } catch (error) {
+      existingJobTitles = [];
     }
 
+    const mergedJobTitles = [...existingJobTitles, ...newJobTitles];
+
+    for (const language of languages.filter((lang) => lang !== mainLanguage)) {
+      const languageData = await fetchLanguageData(accessToken, language);
+      updateTranslations(mergedJobTitles, languageData.data.elements, language);
+    }
+
+    const lastId = mergedJobTitles[mergedJobTitles.length - 1]._id;
+    fs.writeFileSync("start.txt", lastId.toString());
+
     const outputFile = `job_titles.json`;
-    fs.writeFileSync(outputFile, JSON.stringify(jobTitles, null, 2));
+    fs.writeFileSync(outputFile, JSON.stringify(mergedJobTitles, null, 2));
     console.log(`Output written to ${outputFile}`);
   } catch (error) {
     console.error(`Error fetching job titles for ${mainLanguage}:`, error);
@@ -39,7 +56,10 @@ async function getJobTitles(accessToken) {
 }
 
 async function fetchLanguageData(accessToken, language) {
-  const url = `https://api.linkedin.com/v2/titles?locale=${language}&start=25`;
+  let start = fs.readFileSync("start.txt", "utf8");
+  start = parseInt(start);
+
+  const url = `https://api.linkedin.com/v2/titles?locale=${language}&start=${start}`;
 
   try {
     const response = await axios.get(url, {
