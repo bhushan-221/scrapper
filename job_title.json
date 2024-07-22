@@ -1,1102 +1,1202 @@
 [
-    {
-      "_id": 1,
-      "name": "Owner",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Unternehmensinhaber"
-        },
-        {
-          "langCode": "es",
-          "translated": "Propietario"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Propriétaire"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Eigenaar"
-        }
-      ]
+  {
+    "_id": {
+      "$oid": 1
     },
-    {
-      "_id": 2,
-      "name": "Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Manager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Manager"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Manager"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Manager"
-        }
-      ]
+    "name": "Owner",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Unternehmensinhaber"
+      },
+      {
+        "langCode": "es",
+        "translated": "Propietario"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Propriétaire"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Eigenaar"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 2
     },
-    {
-      "_id": 3,
-      "name": "Consultant",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Berater"
-        },
-        {
-          "langCode": "es",
-          "translated": "Consultor"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Consultant"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Consultant"
-        }
-      ]
+    "name": "Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Manager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Manager"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Manager"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 3
     },
-    {
-      "_id": 4,
-      "name": "Project Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Projektmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director de proyecto"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable de projet"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Projectmanager"
-        }
-      ]
+    "name": "Consultant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Berater"
+      },
+      {
+        "langCode": "es",
+        "translated": "Consultor"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Consultant"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Consultant"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 4
     },
-    {
-      "_id": 5,
-      "name": "Director",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Director"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Directeur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Directeur"
-        }
-      ]
+    "name": "Project Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Projektmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director de proyecto"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable de projet"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Projectmanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 5
     },
-    {
-      "_id": 6,
-      "name": "President",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Präsident"
-        },
-        {
-          "langCode": "es",
-          "translated": "Presidente"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Président"
-        },
-        {
-          "langCode": "nl",
-          "translated": "President"
-        }
-      ]
+    "name": "Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Director"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Directeur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Directeur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 6
     },
-    {
-      "_id": 7,
-      "name": "Vice President",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Vice President"
-        },
-        {
-          "langCode": "es",
-          "translated": "Vicepresidente"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Vice président"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Vicevoorzitter"
-        }
-      ]
+    "name": "President",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Präsident"
+      },
+      {
+        "langCode": "es",
+        "translated": "Presidente"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Président"
+      },
+      {
+        "langCode": "nl",
+        "translated": "President"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 7
     },
-    {
-      "_id": 8,
-      "name": "Chief Executive Officer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "CEO"
-        },
-        {
-          "langCode": "es",
-          "translated": "Consejero delegado"
-        },
-        {
-          "langCode": "fr",
-          "translated": "PDG"
-        },
-        {
-          "langCode": "nl",
-          "translated": "CEO"
-        }
-      ]
+    "name": "Vice President",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Vice President"
+      },
+      {
+        "langCode": "es",
+        "translated": "Vicepresidente"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Vice président"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Vicevoorzitter"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 8
     },
-    {
-      "_id": 9,
-      "name": "Software Engineer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Softwareingenieur"
-        },
-        {
-          "langCode": "es",
-          "translated": "Ingeniero de software"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Ingénieur logiciel"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Software-ingenieur"
-        }
-      ]
+    "name": "Chief Executive Officer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "CEO"
+      },
+      {
+        "langCode": "es",
+        "translated": "Consejero delegado"
+      },
+      {
+        "langCode": "fr",
+        "translated": "PDG"
+      },
+      {
+        "langCode": "nl",
+        "translated": "CEO"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 9
     },
-    {
-      "_id": 10,
-      "name": "Engineer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Ingenieur"
-        },
-        {
-          "langCode": "es",
-          "translated": "Ingeniero"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Ingénieur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Ingenieur"
-        }
-      ]
+    "name": "Software Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Softwareingenieur"
+      },
+      {
+        "langCode": "es",
+        "translated": "Ingeniero de software"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Ingénieur logiciel"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Software-ingenieur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 10
     },
-    {
-      "_id": 11,
-      "name": "Account Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Account-Manager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Administrador de cuenta"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable de compte"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Accountmanager"
-        }
-      ]
+    "name": "Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Ingenieur"
+      },
+      {
+        "langCode": "es",
+        "translated": "Ingeniero"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Ingénieur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Ingenieur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 11
     },
-    {
-      "_id": 12,
-      "name": "Analyst",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Analyst"
-        },
-        {
-          "langCode": "es",
-          "translated": "Analista"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Analyste"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Analist"
-        }
-      ]
+    "name": "Account Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Account-Manager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Administrador de cuenta"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable de compte"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Accountmanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 12
     },
-    {
-      "_id": 13,
-      "name": "Intern",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Praktikant"
-        },
-        {
-          "langCode": "es",
-          "translated": "Becario"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Stagiaire"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Stagiair"
-        }
-      ]
+    "name": "Analyst",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Analyst"
+      },
+      {
+        "langCode": "es",
+        "translated": "Analista"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Analyste"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Analist"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 13
     },
-    {
-      "_id": 14,
-      "name": "Sales Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Vertriebsmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director de ventas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable des ventes"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Verkoopmanager"
-        }
-      ]
+    "name": "Intern",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Praktikant"
+      },
+      {
+        "langCode": "es",
+        "translated": "Becario"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Stagiaire"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Stagiair"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 14
     },
-    {
-      "_id": 15,
-      "name": "Teacher",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Lehrer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Maestro"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Enseignant"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Docent"
-        }
-      ]
+    "name": "Sales Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Vertriebsmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director de ventas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable des ventes"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Verkoopmanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 15
     },
-    {
-      "_id": 16,
-      "name": "Managing Director",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Geschäftsführer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Managing Director"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Directeur général"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Algemeen directeur"
-        }
-      ]
+    "name": "Teacher",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Lehrer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Maestro"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Enseignant"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Docent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 16
     },
-    {
-      "_id": 17,
-      "name": "General Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "General Manager:in"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente general"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Directeur général"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Algemeen manager"
-        }
-      ]
+    "name": "Managing Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Geschäftsführer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Managing Director"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Directeur général"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Algemeen directeur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 17
     },
-    {
-      "_id": 18,
-      "name": "Partner",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Partner"
-        },
-        {
-          "langCode": "es",
-          "translated": "Socio"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Associé"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Partner"
-        }
-      ]
+    "name": "General Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "General Manager:in"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente general"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Directeur général"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Algemeen manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 18
     },
-    {
-      "_id": 19,
-      "name": "Sales Specialist",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Vertriebsspezialist"
-        },
-        {
-          "langCode": "es",
-          "translated": "Especialista en ventas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Ventes"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Verkoop"
-        }
-      ]
+    "name": "Partner",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Partner"
+      },
+      {
+        "langCode": "es",
+        "translated": "Socio"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Associé"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Partner"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 19
     },
-    {
-      "_id": 20,
-      "name": "Account Executive",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Kundenbetreuer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Ejecutivo de cuentas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Chargé des comptes"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Accountexecutive"
-        }
-      ]
+    "name": "Sales Specialist",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Vertriebsspezialist"
+      },
+      {
+        "langCode": "es",
+        "translated": "Especialista en ventas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Ventes"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Verkoop"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 20
     },
-    {
-      "_id": 22,
-      "name": "Senior Consultant",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Senior Berater"
-        },
-        {
-          "langCode": "es",
-          "translated": "Consultor superior"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Consultant senior"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Senior consulent"
-        }
-      ]
+    "name": "Account Executive",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Kundenbetreuer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Ejecutivo de cuentas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Chargé des comptes"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Accountexecutive"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 22
     },
-    {
-      "_id": 23,
-      "name": "Associate",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Partner"
-        },
-        {
-          "langCode": "es",
-          "translated": "Associate"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Associé"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Medewerker"
-        }
-      ]
+    "name": "Senior Consultant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Senior Berater"
+      },
+      {
+        "langCode": "es",
+        "translated": "Consultor superior"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Consultant senior"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Senior consulent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 23
     },
-    {
-      "_id": 24,
-      "name": "Developer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Entwickler"
-        },
-        {
-          "langCode": "es",
-          "translated": "Desarrollador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Développeur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Ontwikkelaar"
-        }
-      ]
+    "name": "Associate",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Partner"
+      },
+      {
+        "langCode": "es",
+        "translated": "Associate"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Associé"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Medewerker"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 24
     },
-    {
-      "_id": 25,
-      "name": "Designer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Designer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Diseñador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Designer"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Ontwerper"
-        }
-      ]
+    "name": "Developer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Entwickler"
+      },
+      {
+        "langCode": "es",
+        "translated": "Desarrollador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Développeur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Ontwikkelaar"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 25
     },
-    {
-      "_id": 26,
-      "name": "Marketing Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Marketingmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Jefe de marketing"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable marketing"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Marketingmanager"
-        }
-      ]
+    "name": "Designer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Designer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Diseñador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Designer"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Ontwerper"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 26
     },
-    {
-      "_id": 27,
-      "name": "Product Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Produktmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente de productos"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable de produit"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Productmanager"
-        }
-      ]
+    "name": "Marketing Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Marketingmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Jefe de marketing"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable marketing"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Marketingmanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 27
     },
-    {
-      "_id": 28,
-      "name": "Operations Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Betriebsmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Jefe de operaciones"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable des opérations"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Facilitair manager"
-        }
-      ]
+    "name": "Product Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Produktmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente de productos"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable de produit"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Productmanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 28
     },
-    {
-      "_id": 29,
-      "name": "Business Analyst",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Business Analyst"
-        },
-        {
-          "langCode": "es",
-          "translated": "Analista corporativo"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Analyste commercial"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Bedrijfsanalist"
-        }
-      ]
+    "name": "Operations Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Betriebsmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Jefe de operaciones"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable des opérations"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Facilitair manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 29
     },
-    {
-      "_id": 30,
-      "name": "Administrative Assistant",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Verwaltungsassistent"
-        },
-        {
-          "langCode": "es",
-          "translated": "Auxiliar administrativo"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Adjoint administratif"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Administratief medewerker"
-        }
-      ]
+    "name": "Business Analyst",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Business Analyst"
+      },
+      {
+        "langCode": "es",
+        "translated": "Analista corporativo"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Analyste commercial"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Bedrijfsanalist"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 30
     },
-    {
-      "_id": 32,
-      "name": "System Engineer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "System Engineer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Ingeniero de sistemas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Ingénieur systèmes"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Systeemingenieur"
-        }
-      ]
+    "name": "Administrative Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Verwaltungsassistent"
+      },
+      {
+        "langCode": "es",
+        "translated": "Auxiliar administrativo"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Adjoint administratif"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Administratief medewerker"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 32
     },
-    {
-      "_id": 33,
-      "name": "Program Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Programmmanager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director de programas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable de programme"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Programmamanager"
-        }
-      ]
+    "name": "System Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "System Engineer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Ingeniero de sistemas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Ingénieur systèmes"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Systeemingenieur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 33
     },
-    {
-      "_id": 34,
-      "name": "Assistant",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Assistent"
-        },
-        {
-          "langCode": "es",
-          "translated": "Auxiliar"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Assistant"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Assistent"
-        }
-      ]
+    "name": "Program Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Programmmanager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director de programas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable de programme"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Programmamanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 34
     },
-    {
-      "_id": 35,
-      "name": "Founder",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Gründer"
-        },
-        {
-          "langCode": "es",
-          "translated": "Fundador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Fondateur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Oprichter"
-        }
-      ]
+    "name": "Assistant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Assistent"
+      },
+      {
+        "langCode": "es",
+        "translated": "Auxiliar"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Assistant"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Assistent"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 35
     },
-    {
-      "_id": 36,
-      "name": "Team Lead",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Teamleiter"
-        },
-        {
-          "langCode": "es",
-          "translated": "Jefe de equipo"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Chef d’équipe"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Teamleider"
-        }
-      ]
+    "name": "Founder",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Gründer"
+      },
+      {
+        "langCode": "es",
+        "translated": "Fundador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Fondateur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Oprichter"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 36
     },
-    {
-      "_id": 37,
-      "name": "Supervisor",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Leiter"
-        },
-        {
-          "langCode": "es",
-          "translated": "Supervisor"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Superviseur/chef de bureau"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Supervisor"
-        }
-      ]
+    "name": "Team Lead",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Teamleiter"
+      },
+      {
+        "langCode": "es",
+        "translated": "Jefe de equipo"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Chef d’équipe"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Teamleider"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 37
     },
-    {
-      "_id": 38,
-      "name": "Administrator",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Administrator"
-        },
-        {
-          "langCode": "es",
-          "translated": "Administrador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Administrateur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Beheerder"
-        }
-      ]
+    "name": "Supervisor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Leiter"
+      },
+      {
+        "langCode": "es",
+        "translated": "Supervisor"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Superviseur/chef de bureau"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Supervisor"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 38
     },
-    {
-      "_id": 39,
-      "name": "Senior Software Engineer",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Senior Software Entwickler:in"
-        },
-        {
-          "langCode": "es",
-          "translated": "Ingeniero de software superior"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Ingénieur logiciel senior"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Senior software-ingenieur"
-        }
-      ]
+    "name": "Administrator",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Administrator"
+      },
+      {
+        "langCode": "es",
+        "translated": "Administrador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Administrateur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Beheerder"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 39
     },
-    {
-      "_id": 40,
-      "name": "Accountant",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Buchhalter"
-        },
-        {
-          "langCode": "es",
-          "translated": "Contable"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Comptable"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Accountant"
-        }
-      ]
+    "name": "Senior Software Engineer",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Senior Software Entwickler:in"
+      },
+      {
+        "langCode": "es",
+        "translated": "Ingeniero de software superior"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Ingénieur logiciel senior"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Senior software-ingenieur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 40
     },
-    {
-      "_id": 42,
-      "name": "Business Development Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Business Development Manager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente de desarrollo de negocio"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable développement commercial"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Manager bedrijfsontwikkeling"
-        }
-      ]
+    "name": "Accountant",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Buchhalter"
+      },
+      {
+        "langCode": "es",
+        "translated": "Contable"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Comptable"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Accountant"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 42
     },
-    {
-      "_id": 43,
-      "name": "Office Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Office-Manager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente de oficina"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Chef de bureau"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Officemanager"
-        }
-      ]
+    "name": "Business Development Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Business Development Manager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente de desarrollo de negocio"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable développement commercial"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Manager bedrijfsontwikkeling"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 43
     },
-    {
-      "_id": 44,
-      "name": "Coordinator",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Koordinator"
-        },
-        {
-          "langCode": "es",
-          "translated": "Coordinador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Coordinateur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Coördinator"
-        }
-      ]
+    "name": "Office Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Office-Manager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente de oficina"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Chef de bureau"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Officemanager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 44
     },
-    {
-      "_id": 45,
-      "name": "Human Resources Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "HR-Manager"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente de RR. HH."
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable des ressources humaines"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Human Resources Manager"
-        }
-      ]
+    "name": "Coordinator",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Koordinator"
+      },
+      {
+        "langCode": "es",
+        "translated": "Coordinador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Coordinateur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Coördinator"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 45
     },
-    {
-      "_id": 46,
-      "name": "Assistant Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Direktionsassistent"
-        },
-        {
-          "langCode": "es",
-          "translated": "Gerente asistente"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable adjoint"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Assistent manager"
-        }
-      ]
+    "name": "Human Resources Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "HR-Manager"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente de RR. HH."
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable des ressources humaines"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Human Resources Manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 46
     },
-    {
-      "_id": 47,
-      "name": "Principal",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Direktor"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Proviseur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Rector"
-        }
-      ]
+    "name": "Assistant Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Direktionsassistent"
+      },
+      {
+        "langCode": "es",
+        "translated": "Gerente asistente"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable adjoint"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Assistent manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 47
     },
-    {
-      "_id": 48,
-      "name": "Sales Director",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Vertriebsleiter"
-        },
-        {
-          "langCode": "es",
-          "translated": "Director de ventas"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Directeur commercial"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Verkoopdirecteur"
-        }
-      ]
+    "name": "Principal",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Direktor"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Proviseur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Rector"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 48
     },
-    {
-      "_id": 49,
-      "name": "Editor",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Redakteur"
-        },
-        {
-          "langCode": "es",
-          "translated": "Redactor"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Rédacteur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Redacteur"
-        }
-      ]
+    "name": "Sales Director",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Vertriebsleiter"
+      },
+      {
+        "langCode": "es",
+        "translated": "Director de ventas"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Directeur commercial"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Verkoopdirecteur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 49
     },
-    {
-      "_id": 50,
-      "name": "Senior Manager",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Senior Manager:in"
-        },
-        {
-          "langCode": "es",
-          "translated": "Senior manager"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Responsable senior"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Senior manager"
-        }
-      ]
+    "name": "Editor",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Redakteur"
+      },
+      {
+        "langCode": "es",
+        "translated": "Redactor"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Rédacteur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Redacteur"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 50
     },
-    {
-      "_id": 51,
-      "name": "Researcher",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Wissenschaftler"
-        },
-        {
-          "langCode": "es",
-          "translated": "Investigador"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Chercheur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Onderzoeker"
-        }
-      ]
+    "name": "Senior Manager",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Senior Manager:in"
+      },
+      {
+        "langCode": "es",
+        "translated": "Senior manager"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Responsable senior"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Senior manager"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 51
     },
-    {
-      "_id": 52,
-      "name": "Attorney",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Rechtsanwalt"
-        },
-        {
-          "langCode": "es",
-          "translated": "Abogado"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Procureur"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Advocaat"
-        }
-      ]
+    "name": "Researcher",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Wissenschaftler"
+      },
+      {
+        "langCode": "es",
+        "translated": "Investigador"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Chercheur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Onderzoeker"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 52
     },
-    {
-      "_id": 54,
-      "name": "Student",
-      "translation": [
-        {
-          "langCode": "de",
-          "translated": "Schüler"
-        },
-        {
-          "langCode": "es",
-          "translated": "Estudiante"
-        },
-        {
-          "langCode": "fr",
-          "translated": "Étudiant"
-        },
-        {
-          "langCode": "nl",
-          "translated": "Student"
-        }
-      ]
-    }
-  ]
+    "name": "Attorney",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Rechtsanwalt"
+      },
+      {
+        "langCode": "es",
+        "translated": "Abogado"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Procureur"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Advocaat"
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": 54
+    },
+    "name": "Student",
+    "translation": [
+      {
+        "langCode": "de",
+        "translated": "Schüler"
+      },
+      {
+        "langCode": "es",
+        "translated": "Estudiante"
+      },
+      {
+        "langCode": "fr",
+        "translated": "Étudiant"
+      },
+      {
+        "langCode": "nl",
+        "translated": "Student"
+      }
+    ]
+  }
+]
