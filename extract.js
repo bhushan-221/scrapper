@@ -22,7 +22,7 @@ async function getJobTitles(accessToken) {
 
     const newJobTitles = response.data.elements.map((title) => {
       return {
-        _id: title.id,
+        _id: { $oid: title.id },
         name: title.name.localized[Object.keys(title.name.localized)[0]],
         translation: [],
       };
@@ -44,7 +44,7 @@ async function getJobTitles(accessToken) {
       updateTranslations(mergedJobTitles, languageData.data.elements, language);
     }
 
-    const lastId = mergedJobTitles[mergedJobTitles.length - 1]._id;
+    const lastId = mergedJobTitles[mergedJobTitles.length - 1]._id.$oid;
     fs.writeFileSync("start.txt", lastId.toString());
 
     const outputFile = `job_titles.json`;
@@ -77,10 +77,10 @@ async function fetchLanguageData(accessToken, language) {
 function updateTranslations(jobTitles, languageData, language) {
   languageData.forEach((languageTitle) => {
     const matchingTitle = jobTitles.find(
-      (title) => title._id === languageTitle.id,
+      (title) => title._id.$oid === languageTitle.id,
     );
     if (matchingTitle) {
-      const langCode = language.substring(0, 2);
+      const langCode = language.substring(0, 2).toLowerCase();
       matchingTitle.translation.push({
         langCode,
         translated:
