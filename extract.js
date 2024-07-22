@@ -39,7 +39,7 @@ async function fetchJobTitles(language, accessToken) {
 
   try {
     const response = await axios.get(url, {
-      headers: {
+      headers: { 
         Authorization: `Bearer ${accessToken}`,
       },
     });
